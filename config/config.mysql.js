@@ -2,11 +2,11 @@ module.exports = {
     // 单数据库信息配置
     client: {
       // host
-      host: 'localhost',
+      host: '39.107.252.93',
       // 端口号
       port: '3306',
       // 用户名
-      user: 'root',
+      user: 'lingxiang',
       // 密码
       password: '749826862',
       // 数据库名
